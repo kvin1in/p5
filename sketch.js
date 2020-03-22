@@ -122,8 +122,8 @@ class Planet {
     }
 
     move() {
-        this.x = this.x + random(-.5, .5);
-        this.y = this.y + random(-.5, .5);
+        this.x = this.x
+        this.y = this.y 
     }
 }
 
